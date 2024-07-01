@@ -1,0 +1,19 @@
+.navbar__content {
+    visibility: hidden;
+}
+
+#header {
+    visibility: hidden;
+}
+
+.about {
+    visibility: hidden;
+}
+
+.skills {
+    visibility: hidden;
+}
+
+.projects {
+    visibility: hidden;
+}

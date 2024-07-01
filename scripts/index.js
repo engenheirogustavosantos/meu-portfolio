@@ -11,7 +11,9 @@ window.addEventListener('scroll', function() {
         return navbar.classList.remove('active');
 });
 
-
+// Scroll reveal
+window.sr = ScrollReveal({reset: true});
+sr.reveal('.max-width', {duration: 1000});
 
 
 
